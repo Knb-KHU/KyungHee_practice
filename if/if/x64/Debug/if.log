@@ -1,0 +1,3 @@
+﻿  if.cpp
+C:\Users\user\source\repos\practice\if\if\if.cpp(22,8): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  if.vcxproj -> C:\Users\user\source\repos\practice\if\x64\Debug\if.exe
